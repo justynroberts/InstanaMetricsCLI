@@ -1,0 +1,26 @@
+Cluster,Namespace,Deployment Count,Pod Count
+demo-eu-cluster,kube-node-lease,0,0
+demo-eu-cluster,cron-job,0,6
+demo-eu-cluster,elasticsearch,0,3
+demo-eu-cluster,kube-public,0,0
+demo-eu-cluster,logging,0,3
+demo-eu-cluster,instana-agent,0,3
+demo-eu-cluster,kube-system,5,9
+demo-eu-cluster,eum,7,9
+demo-eu-cluster,robot-shop,14,14
+demo-eu-cluster,default,0,0
+demo-eu-cluster,default,0,0
+instana-cluster,pks-system,6,12
+instana-cluster,kube-system,3,5
+instana-cluster,kube-public,0,0
+instana-cluster,instana-agent,0,3
+instana-cluster,default,0,0
+instana-cluster,kube-node-lease,0,0
+instana-cluster,kube-node-lease,0,0
+instana-cluster,pks-system,6,12
+instana-cluster,kube-system,3,5
+instana-cluster,kube-public,0,0
+instana-cluster,instana-agent,0,3
+instana-cluster,default,0,0
+instana-cluster,kube-node-lease,0,0
+instana-cluster,kube-node-lease,0,0
