@@ -31,29 +31,6 @@ The main runtime is queryinstana.py which accepts the following commands :-
 
 Add a query to refine your search criteria
 
-
-
-## Sample
-
-
-
-## Sample Cost Calculator
-
-All your files and folders are presented as a tree in the file explorer. You can switch from one to another by clicking a file in the tree.
-
-## Rename a file
-
-You can rename the current file by clicking the file name in the navigation bar or by clicking the **Rename** button in the file explorer.
-
-## Delete a file
-
-You can delete the current file by clicking the **Remove** button in the file explorer. The file will be moved into the **Trash** folder and automatically deleted after 7 days of inactivity.
-
-## Export a file
-
-You can export the current file by clicking **Export to disk** in the menu. You can choose to export the file as plain Markdown, as HTML using a Handlebars template or as a PDF.
-
-
 # Getting started
 
 You will need to make two modifications to the `instanaquery.py` to get started :-
@@ -83,7 +60,10 @@ sampleusage.sh creates an output CSV of Clusters,Namespaces, Pods and Deployment
 
 
 
-Feel free to modify and clear up.
+
+Feel free to modify and clear up.I might try an interactive CLI browser at some point too.
+Thx,
+
 
 
 
